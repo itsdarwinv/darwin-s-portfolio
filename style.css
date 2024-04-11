@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(194,98,98);
+background: linear-gradient(90deg, rgba(194,98,98,1) 0%, rgba(190,75,13,1) 44%, rgba(198,15,118,1) 100%);
+#container{
+ width: 600px;   
+ border: solid 3px;
+ border-radius: 10px;
+ margin: 20px auto;
+ padding: 20px;
+}
+img{
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+ul{
+    padding: 0;
+}
